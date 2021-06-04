@@ -29,7 +29,8 @@
 	* 15.4 INSERT
 	* 15.5 EMPLACE
 * 16 VECTOR METHODS (RECAP)
-* 17 CLEAR, ERASE and POP_BACK METHODS
+	* 16.1 RECAP - CONSTRUCTING VECTORS
+	* 16.2 CLEAR, ERASE and POP_BACK METHODS
 
 ## License
 This content is created by [Ugur Uresin](mailto:uresin.ugur@gmail.com.tr) and shared to public for training purposes.  
