@@ -1,7 +1,7 @@
 # C++ Notes - Ugur Uresin
 
 ## Contact
-* [Uğur Üresin, PhDc.](https://github.com/ugururesin) - [uresin.ugur@gmail.com.tr](mailto:uresin.ugur@gmail.com.tr)
+* [Uğur Üresin, PhDc.](https://github.com/ugururesin) - [uresin.ugur@gmail.com](mailto:uresin.ugur@gmail.com)
 
 ## List of Content
 * 01 BASICS
@@ -33,5 +33,5 @@
 	* 16.2 CLEAR, ERASE and POP_BACK METHODS
 
 ## License
-This content is created by [Ugur Uresin](mailto:uresin.ugur@gmail.com.tr) and shared to public for training purposes.  
+This content is created by [Ugur Uresin](mailto:uresin.ugur@gmail.com) and shared to public for training purposes.  
 You can freely use and share the content here as long as you give reference.
