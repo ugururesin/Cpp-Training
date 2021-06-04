@@ -4,7 +4,7 @@
 * [Uğur Üresin, PhDc.](https://github.com/ugururesin) - [uresin.ugur@gmail.com](mailto:uresin.ugur@gmail.com)
 
 ## List of Content
-* 01 BASICS
+* 01. BASICS
 * 02 FORMATTING THE OUTPUT
 * 03 FILE IO
 * 04 POINTERS
