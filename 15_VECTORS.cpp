@@ -13,7 +13,7 @@ To execute the program: ./executableName
 // 15 - VECTORS
 // -------------------------------------------------- //
 
-// VECTOR CONSTRUCTING
+// 15.1 VECTOR CONSTRUCTING
 /////////////////////////////////////////
 #include <iostream>
 #include <vector>  //Need to include the vector library!
@@ -31,7 +31,7 @@ int main ()
 }
 
 
-// VECTORS and ITERATORS
+// 15.2 VECTORS and ITERATORS
 /////////////////////////////////////////
 /*
 Vectors are more versatile than arrays,
@@ -91,7 +91,7 @@ VectorInts has these elements:
 */
 
 
-// VECTOR OPERATIONS
+// 15.3 VECTOR OPERATIONS
 /////////////////////////////////////////
 #include <iostream>
 #include <vector>
@@ -148,7 +148,7 @@ int main(void){
 }
 
 
-// INSERT
+// 15.4 INSERT
 /////////////////////////////////////////
 /* Insert is another method to add elements to a vector.
 Adds elements to the location after the iterator! */
@@ -185,7 +185,7 @@ int main(void)
 }
 
 
-// EMPLACE
+// 15.5 EMPLACE
 /////////////////////////////////////////
 /*Emplace puts an element in a vector at the position
 pointed to by the iterator.

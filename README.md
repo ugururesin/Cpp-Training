@@ -1,33 +1,35 @@
 # C++ Notes - Ugur Uresin
 
 ## Contact
-* [Uğur Üresin, PhDc.](https:*github.com/ugururesin) - [uresinugur35@gmail.com.tr](mailto:uresinugur35@gmail.com.tr)
+** [Uğur Üresin, PhDc.](https:**github.com/ugururesin) - [uresinugur35@gmail.com.tr](mailto:uresinugur35@gmail.com.tr)
 
 ## List of Content
-* 01 BASICS
-* 02 FORMATTING THE OUTPUT
-* 03 FILE IO
-* 04 POINTERS
-* 05 ARRAYS
-* 06 FUNCTIONS
-* 07 IF-STATEMENTS
-* 08 SWITCH STAT
-* 09 FOR LOOPS
-* 10 EXITING LOOPS
-* 11 CLASSES
-* 12 PRIVATE AREAS IN CLASS & ENCAPSULATION
-* 13 TEMPLATES (Same VarType)
-* 14 TEMPLATES (Multiple VarType)
-* 15 GENERIC CLASSES
-* 16 CLASS INHERITANCE
-* 17 MULTIPLE CLASS INHERITANCE
-* 18 VECTOR CONSTRUCTING
-* 19 VECTORS and ITERATORS
-* 20 VECTOR OPERATIONS
-* 21 INSERT
-* 22 EMPLACE
-* 23 VECTOR METHODS (RECAP)
-* 24 CLEAR, ERASE and POP_BACK METHODS
+** 01 BASICS
+** 02 FORMATTING THE OUTPUT
+** 03 FILE IO
+** 04 POINTERS
+** 05 ARRAYS
+** 06 FUNCTIONS
+** 07 CONTROL FLOW STATEMENTS
+* 07.1 IF-STATEMENTS
+* 07.2 SWITCH STAT
+* 07.3 FOR LOOPS
+* 07.4 EXITING LOOPS
+** 08 CLASSES
+** 09 PRIVATE AREAS IN CLASS & ENCAPSULATION
+** 10 TEMPLATES (Same VarType)
+** 11 TEMPLATES (Multiple VarType)
+** 12 GENERIC CLASSES
+** 13 CLASS INHERITANCE
+** 14 MULTIPLE CLASS INHERITANCE
+** 15 VECTOR CONSTRUCTING
+* 15.1 VECTOR CONSTRUCTING
+* 15.2 VECTORS and ITERATORS
+* 15.3 VECTOR OPERATIONS
+* 15.4 INSERT
+* 15.5 EMPLACE
+** 20 VECTOR METHODS (RECAP)
+** 21 CLEAR, ERASE and POP_BACK METHODS
 
 ## License
 This content is created by [Ugur Uresin](mailto:uresinugur35@gmail.com.tr) and shared to public for training purposes.  
