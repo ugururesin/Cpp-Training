@@ -31,6 +31,6 @@
 * 16 VECTOR METHODS (RECAP)
 * 17 CLEAR, ERASE and POP_BACK METHODS
 
-## License## License
+## License
 This content is created by [Ugur Uresin](mailto:uresin.ugur@gmail.com.tr) and shared to public for training purposes.  
 You can freely use and share the content here as long as you give reference.
