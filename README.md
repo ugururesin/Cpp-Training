@@ -3,7 +3,7 @@
 ## Contact
 * [Uğur Üresin, PhDc.](https:*github.com/ugururesin) - [uresinugur35@gmail.com.tr](mailto:uresinugur35@gmail.com.tr)
 
-## Content
+## List of Content
 * 01 BASICS
 * 02 FORMATTING THE OUTPUT
 * 03 FILE IO
