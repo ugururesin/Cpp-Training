@@ -28,8 +28,8 @@
 	* 15.3 VECTOR OPERATIONS
 	* 15.4 INSERT
 	* 15.5 EMPLACE
-* 20 VECTOR METHODS (RECAP)
-* 21 CLEAR, ERASE and POP_BACK METHODS
+* 16 VECTOR METHODS (RECAP)
+* 17 CLEAR, ERASE and POP_BACK METHODS
 
 ## License## License
 This content is created by [Ugur Uresin](mailto:uresin.ugur@gmail.com.tr) and shared to public for training purposes.  
